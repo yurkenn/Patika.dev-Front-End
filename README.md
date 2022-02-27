@@ -5,10 +5,10 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Egitiminde olusturdugumuz
 
 
 ## Installation
- Oncelikle projeyi clonelayin. (https://github.com/yurkenn/kodluyoruzilkrepo.git)
+ Oncelikle projeyi clonelayin. (https://github.com/yurkenn/Patika.dev-Front-End.git)
 
  ```
-git clone https://github.com/yurkenn/Patika.dev-Front-End
+git clone https://github.com/yurkenn/Patika.dev-Front-End.git
  ```
 ## Usage
 Projeyi cloneladiktan sonra Visual Studio Code programinda aciniz.
