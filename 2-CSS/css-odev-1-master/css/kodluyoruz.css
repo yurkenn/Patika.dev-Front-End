@@ -1,0 +1,68 @@
+/************************ Layout ****************************/
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #FCECDD;
+}
+p {
+    text-align: center;
+    
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+.center {
+    text-align: center;
+    list-style-position: inside;
+  }
+  
+  ol{
+    text-align: center;
+    list-style-position: inside;
+}
+
+ul{
+    text-align: center;
+    list-style-position: inside;
+}
+
+header {
+    text-align: center;
+}
+
+article {
+    text-align: center;
+}
+/****************************** FontSize *******************************/
+.fs-14 {
+    font-size: 14px;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.fs-30 {
+    font-size: 30px;
+}
+
+/******************************* Color *******************************/
+
+.text-beige {
+    color: #FFC288;
+}
+
+.text-yellow {
+    color: #FEA82F;
+}
+
+.text-orange {
+    color: #FF6701;
+}
+
+a {
+    color:red;
+}

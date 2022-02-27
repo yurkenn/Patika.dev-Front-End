@@ -1,0 +1,169 @@
+.header {
+  list-style-type: none;
+  margin: 10px;
+  overflow: hidden;
+  margin-right: 16px;
+  font-family: arial,sans-serif;
+  font-size: 13px;
+
+}
+
+.headerli a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 5px 5px;
+  text-decoration: none;
+}
+
+.headerli a:hover {
+  text-decoration: underline;
+}
+
+.profile-pic {
+  margin: auto;
+  float: right;
+  height: 32px;
+  width: 32px;
+  margin-top: 3px;
+}
+
+.gb_C {
+  display: inline-block;
+  outline: none;
+  vertical-align: middle;
+  border-radius: 1px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  height: 40px;
+  width: 40px;
+  color: #000;
+  cursor: pointer;
+  text-decoration: none;
+  float: right;
+}
+
+
+.container {
+  display: block;
+  text-align: center;
+  margin: 200px auto 20px auto;
+}
+
+
+center {
+  display: block;
+  text-align: center;
+}
+
+.googlesearch {
+  margin-right: 10px;
+  padding: 0 16px;
+  line-height: 27px;
+  min-width: 54px;
+  height: 36px;
+  text-align: center;
+  cursor: pointer;
+  user-select: none;
+  border: 1px solid #f2f2f2;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.feelinglucky {
+  margin:25px 0;
+  
+  padding: 0 16px;
+  line-height: 27px;
+  min-width: 54px;
+  height: 36px;
+  text-align: center;
+  cursor: pointer;
+  user-select: none;
+  border: 1px solid #f2f2f2;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.footer {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid #dfe1e5;
+  border-top: 1px solid #dadce0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  min-width: 980px;
+  margin-left: -8px;
+  line-height: 10px;
+  background: #f2f2f2;
+}
+
+.footerli {
+  
+}
+
+.footerli a {
+  display: block;
+  color: #70757a;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  margin-left: 14px;
+  margin-right: -20px;
+}
+
+.footerli a:hover {
+  text-decoration: underline;
+}
+
+li {   
+  list-style: none;
+}
+
+.bar {
+  margin: 0 auto;
+  width: 575px;
+  border-radius: 30px;
+  border: 1px solid #dcdcdc;
+}
+
+.bar:hover {
+  box-shadow: 1px 1px 8px 1px #dcdcdc;
+}
+
+.bar:focus-within {
+  box-shadow: 1px 1px 8px 1px #dcdcdc;
+  outline: none;
+}
+
+.searchbar {
+  height: 45px;
+  border: none;
+  width: 500px;
+  font-size: 16px;
+  outline: none;
+}
+
+.voice {
+  height: 24px;
+  position: relative;
+  top: 5px;
+  
+}
+
+div {
+  display: block;
+}
+
+svg{
+  width: 24px;
+  height: 24px;
+  fill: rgba(95, 99, 104);
+  float: left;
+  margin-top: 12px;
+  margin-left: 10px;
+}
