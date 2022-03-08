@@ -15,7 +15,7 @@ Projeyi cloneladiktan sonra Visual Studio Code programinda aciniz.
 
 Linux icin:
 ```
-cd kodluyoruzilkrepo
+cd Patika.dev-Front-End
 code .
 ```
 ## Contributing
